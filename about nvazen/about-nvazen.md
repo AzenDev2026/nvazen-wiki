@@ -17,4 +17,5 @@ releaseID :
 **Not any version exist yet**  
 
 # Download  
-click [here](https://azen.dev/#download) to go to download center
+click [here](https://azen.dev/#download) to go to download center  
+(might not be correctly dirrected,this file is same as README.md)
