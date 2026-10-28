@@ -1,0 +1,3 @@
+wriiten by Ziting liang 2026 oct 28
+the first closed source item is actually the NVazen Pro series installer
+the install.sh and gui.sh you see is for the normal NVazen
